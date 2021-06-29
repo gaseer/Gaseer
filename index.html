@@ -1,28 +1,71 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+<style>
+body {margin:0;}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color: #04AA6D;
+}
+</style>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scal=1.0"> 
 <title>Gaseer's first web</title>
 <br><br>
 </head>
+
 <body BACKGROUND="Images/cvbg.jpg">
 <BR/>
-<div >
+ <ul>
+  <li><a class="active" href="#top">Gaseer's</a></li>
+  <li><a href="#contact">Contact</a></li>
+  <li><a href="about">About</a></li>
+ </ul>
    <H1><FONT FACE  SIZE="8" color="black"><center><em>Hey!</em></center></FONT>
    <H2>
    <FONT SIZE="6" COLOR="dark gray"><center>IT's GASEER</center></H2>
    <center><img src="gase.jpg" height="300"></center>
+  <div id="about">
    <H3><FONT  SIZE="3" COLOR="classic blue"><center><em><u>AM A SCHOLAR</center></u></H3>
    <P><i><b><center>Studying in ISS arts & science college🎓.</center></b></P>
    <H4><FONT COLOR="classic blue" SIZE="3"><U><i><center>WORK EXPERIENCE</center></i></U><H4>
      <P><center> NOT A PROFESSIONAL WORKER BUT TRYING<br><b>TO BE A FRONT-END WEB DEVELOPER</center></i> </b></B></P><hr>
-  <H5 font size="6" style=color:red;><b><center>Click icon to get my-Github </center></b></H5>
-    <center><A HREF="https://github.com/gaseer" target="_blank"><img src="Images/github.jpg" height="80"></center></A>
-  <h5><font size="4" color="red"><center><b>Click icon to show</b><mark>INSTagRAM</mark>profile</center>
-    <center><a href="https://instagram.com/gaseer__moh" target="_blank"><img src="Images/insta1.jpg" height="80" ></center></a>
-  <hr><h6 font size="8" style=color:gray;><center><mark><em>let's Mail :</em></mark></center><center>
+  </div>
+    <div class="contact">
+      <H5 font size="6" style=color:red;><b><center>Click icon to get my-Github </center></b></H5>
+      <center><A HREF="https://github.com/gaseer" target="_blank"><img src="Images/github.jpg" height="80"></center></A>
+     <h5><font size="4" color="red"><center><b>Click icon to show</b><mark>INSTagRAM</mark>profile</center>
+      <center><a href="https://instagram.com/gaseer__moh" target="_blank"><img src="Images/insta1.jpg" height="80" ></center></a>
+      <hr><h6 font size="8" style=color:gray;><center><mark><em>let's Mail :</em></mark></center><center>
       <a href="mailto:gaseermohammed8@gmail.com"><img src="Images/gmail.jpg" height="90"></center></a><br>
       <a href="#top"><center><button type="button" style="font size:4;fontface:italic;cellpadding:3px;"><center>Back to top</center></font></button></a>
+    </div>
 </body>
 </html>
