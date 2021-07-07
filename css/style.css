@@ -34,7 +34,7 @@ h3 {
 }
 
 a {
-    color: darkred; 
+    color: red; 
 }
 
 a:hover {
@@ -106,7 +106,7 @@ nav{
 
 nav a {
     display: inline-block;
-    padding: 20px 15px;
+    padding: 22px 16px;
     text-decoration: none;
     text-transform: uppercase;
     font-weight: 900;
@@ -188,7 +188,7 @@ img {
     }
     nav a {
         display: inline-block;
-        padding: 0 5px;
+        padding: 3px 5px;
         text-decoration: none;
         text-transform: uppercase;
         font-weight: bold;
