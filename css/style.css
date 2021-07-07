@@ -20,11 +20,11 @@ h1, h2 {
 }
 
 h1 {
-    font-size: 60px;
+    font-size: 75px;
 }
 
 h2 {
-    font-size: 40px;
+    font-size: 45px;
     margin-top: 0;
 }
 
@@ -98,7 +98,7 @@ color: white;
 /* Navigation */
 nav{
     text-align: center;
-    background: white;
+    background: MistyRose1;
     position: fixed;
     top: 0;
     width: 100%;
