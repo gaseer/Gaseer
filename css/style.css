@@ -1,0 +1,209 @@
+/*Global Styles copied and edited
+-----------------------------------------*/
+html {
+    box-sizing: border-box;
+}
+
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
+body{
+    background:bisque;
+    font-family: san-serif;
+    margin: 0;
+}
+
+h1, h2 {
+    font-family: 'Caveat', cursive;
+    font-weight: 400;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+h2 {
+    font-size: 40px;
+    margin-top: 0;
+}
+
+
+h3 {
+    margin-top: 0;
+}
+
+a {
+    color: cyan; 
+}
+
+a:hover {
+    background-color:red;
+    text-decoration: none;
+}
+
+.content-wrap {
+    max-width:100%;
+    margin: 3auto;
+    padding:  15px 20px;
+    overflow: auto;
+}
+
+
+.uppercase{
+    text-transform: uppercase;
+}
+
+/*Header and footer
+-----------------------------------------*/
+header, footer {
+    background:#252545;
+}
+
+/*header*/
+
+header{
+    padding-top: 60px;
+    position: relative;
+}
+
+header h1, header h2 {
+    color: salmon;
+    margin: 10;
+}
+
+header p{
+    color:darkgray;
+    font-style:italic;
+    font-size: 25px;
+}
+
+.profile-img {
+    border-radius: 50%;
+}
+
+/*footer*/
+footer {
+    text-align: center;
+}
+
+footer h2, footer p{
+color: white;
+}
+.contact-info a{
+    padding: 10px;
+    display: inline-block;
+}
+
+/* Navigation */
+nav{
+    text-align: center;
+    background: white;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+nav a {
+    display: inline-block;
+    padding: 20px 15px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 900;
+}
+
+/*Work Experience
+-----------------------------------------*/
+.work {
+    background:lightyellow;
+}
+
+h3 ~ p {
+    margin: 0;
+}
+
+
+/*Education
+-----------------------------------------*/
+.education {
+    background-color: gray;
+}
+
+p + h3{
+    margin-top: 25px;
+}
+
+/* Technologies */
+.technology-container {
+    margin-bottom: 150px;
+    margin-top: 40px;
+    float: left;
+    width: 50%;
+    
+    
+}
+img { 
+    float:middle;
+    padding:0px 10px;
+    margi    
+}
+/* Media Queries */
+
+@media (min-width: 900px){
+
+    .col-narrow {
+        width: 30%;
+        float: left;
+        min-height: 175px;
+    }
+    
+    .col-wide {
+        width: 70%;
+        float: left;
+        padding-left: 20px;
+        min-height: 175px;
+    }
+}
+
+@media (max-width:899px){
+    header{
+        text-align: center;
+    }
+
+    .profile-img{
+        width: 150px;
+    }
+    h1 {
+        font-size: 30px;
+    }
+    h2 {
+        font-size: 20px;
+    }
+
+    .col-wide p {
+        text-align: left;
+    }
+    nav {
+        text-align: left;
+    }
+    nav a {
+        display: inline-block;
+        padding: 0 5px;
+        text-decoration: none;
+        text-transform: uppercase;
+        font-weight: bold;
+    }
+    .content-wrap {
+        padding:  20px 30px;
+    }   
+
+}
+
+
+@media (max-width:800px){
+
+    img{
+        width: 90px;
+    }
+/* gaseer removed this-----for hoverable drop down menu*/
+ent {display: block;}
