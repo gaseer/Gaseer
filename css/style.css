@@ -20,11 +20,11 @@ h1, h2 {
 }
 
 h1 {
-    font-size: 75px;
+    font-size: 60px;
 }
 
 h2 {
-    font-size: 45px;
+    font-size: 35px;
     margin-top: 0;
 }
 
@@ -75,7 +75,7 @@ header h1, header h2 {
 header p{
     color:darkgray;
     font-style:italic;
-    font-size: 25px;
+    font-size: 18px;
 }
 
 .profile-img {
@@ -98,7 +98,7 @@ color: white;
 /* Navigation */
 nav{
     text-align: center;
-    background: MistyRose1;
+    background: FFBBFF;
     position: fixed;
     top: 0;
     width: 100%;
