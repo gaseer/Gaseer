@@ -11,16 +11,12 @@
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
-#### 👨🏻‍💻 Currently working on:
+<h4> 👨🏻‍💻 Currently working on:</h4>
 
-<a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a>
-<a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>
+<a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a> &nbsp
+<a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>&nbsp
 <a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
 
-<a src="https://www.docker.com/">.
-  <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fw7.pngwing.com%2Fpngs%2F834%2F715%2Fpng-transparent-computer-icons-api-text-logo-desktop-wallpaper-thumbnail.png&imgrefurl=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dapi&tbnid=yt9Q0bY4vpeToM&vet=12ahUKEwjlhrXO1vX5AhW0zaACHThjASAQMygCegUIARDeAQ..i&docid=__7Ej4D4vVEH2M&w=360&h=360&q=api%20png&ved=2ahUKEwjlhrXO1vX5AhW0zaACHThjASAQMygCegUIARDeAQ"/></a>
-
-<a src="https://visualstudio.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/visual-studio.png"/></a>
 <a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
 <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
 
