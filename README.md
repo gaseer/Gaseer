@@ -4,11 +4,11 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring the emerging technologies and trying to make something different from learning for 3 years in college.
+- 🤔 &nbsp; Exploring the emerging technologies and Seeking different ways to share these tech stack with the future developers.
 - 🎓 &nbsp; Studying Bachelore of Computer Application at Calicut University.
 - 💼 &nbsp; Working as a freelancer.
 - 🌱 &nbsp; Learning more about Meta Verse, Cloud Architecture, Systems Design and Artificial Intelligence.
-- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing ashustles.
+- ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 #### 👨🏻‍💻 Currently working on:
