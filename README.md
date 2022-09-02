@@ -1,2 +1,1 @@
-#Self Learner
-#Trying to seek and find different ways to implementing it on projects.
+![Here is my Status](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
