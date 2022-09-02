@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.png">
-
 <h2 aling="center"> Hey there! I'm Gaseer.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -11,12 +9,6 @@
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
-<h4> 👨🏻‍💻 Currently working on:</h4>
-
-<a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a> &nbsp
-<a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a>&nbsp
-<a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
-
 <a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
 <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
 
@@ -49,12 +41,20 @@
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+  
+  
+<h4> 👨🏻‍💻 Currently working on:</h4>
+
+<a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a> &nbsp;&nbsp;&nbsp;
+<a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a> &nbsp;&nbsp;
+<a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a>
+
 
 <br/>
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+<a href="https://github.com/gaseer">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaseer&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaseer&theme=buefy&layout=compact" />
 </a>
 
 <br/>
