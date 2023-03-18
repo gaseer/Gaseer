@@ -5,7 +5,7 @@
 - 🤔 &nbsp; Exploring the emerging technologies and implementing those tech stacks on my projects.
 - 🎓 &nbsp; Studying Bachelore of Computer Application at Calicut University.
 - 💼 &nbsp; Working as a freelancer.
-- 🌱 &nbsp; Learning more about Meta Verse, Cloud Architecture, Systems Design and Artificial Intelligence.
+- 🌱 &nbsp; Learning more about Flutter, Meta Verse, Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -15,6 +15,7 @@
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Python](https://img.shields.io/badge/Flutter-dev-blue)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
