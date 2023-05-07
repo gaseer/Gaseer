@@ -67,7 +67,9 @@
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
-
+Mail Me
+<a src="mailto:gaseermohammed8@gmail.com"><img src="https://img.icons8.com/color/48/000000/mail.png"/>gaseermohammed8@gmail.com</a>
+<img src="https://img.icons8.com/color/48/000000/phone.png"/>
 9207037526
 
 
