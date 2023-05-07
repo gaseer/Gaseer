@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring the emerging technologies and implementing those tech stacks on my projects.
-- 🎓 &nbsp; Studying Bachelore of Computer Application at Calicut University.
+- 🎓 &nbsp; Bachelore of Computer Application Graduate from Calicut University.
 - 💼 &nbsp; Working as a freelancer.
 - 🌱 &nbsp; Learning more about Flutter, Meta Verse, Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as side hustles.
