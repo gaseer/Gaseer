@@ -9,9 +9,12 @@
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
+<div>
+  <a src="https://www.flutter.com/"><img src="https://img.icons8.com/color/48/000000/flutter.png"/></a> &nbsp;
 <a src="https://www.npmjs.com/"><img src="https://img.icons8.com/color/48/000000/npm.png"/></a>
+  <a src="https://www.firebase.com/"><img src="https://img.icons8.com/color/48/000000/firebase.png"/></a> &nbsp;
 <a src="https://github.com/"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></a>
-
+<div>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
