@@ -46,11 +46,12 @@
   
   
 <h4> 👨🏻‍💻 Currently working on:</h4>
+<div>
 <a src="https://www.flutter.com/"><img src="https://img.icons8.com/color/48/000000/flutter.png"/></a> &nbsp;
 <a src="https://www.firebase.com/"><img src="https://img.icons8.com/color/48/000000/firebase.png"/></a> &nbsp;
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a> &nbsp;
 <a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a> &nbsp;&nbsp;
-
+</div>
 
 <br/>
 
