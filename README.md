@@ -68,11 +68,8 @@
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 <div>
-Mail Me
-<img src="https://img.icons8.com/color/48/000000/e-mail.png"/>
-</div>
-<div>
   <img src="https://img.icons8.com/color/48/000000/phone.png"/>
 9207037526
+  <a href="mailto:gaseermohammed8@gmail.com">Mail me</a>
 </div>
 
