@@ -29,8 +29,9 @@
   ![Php](https://img.shields.io/badge/-Php-333333?style=flat&logo=Php)
 
 - 🛢 &nbsp;
-![Firebase](https://img.icons8.com/color/48/000000/firebase.png)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![Firebase](https://img.icons8.com/color/48/000000/firebase.png)
+  
 
 - ⚙️ &nbsp;
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -48,8 +49,11 @@
 <h4> 👨🏻‍💻 Currently working on:</h4>
 <div>
 <a src="https://www.flutter.com/"><img src="https://img.icons8.com/color/48/000000/flutter.png"/></a> &nbsp;
+  <a src="https://www.dart.com/"><img src="https://img.icons8.com/color/48/000000/dart.png"/></a>
 <a src="https://www.firebase.com/"><img src="https://img.icons8.com/color/48/000000/firebase.png"/></a> &nbsp;
+  <a src="https://www.figma.com/"><img src="https://img.icons8.com/color/48/000000/figma.png"/></a>
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a> &nbsp;
+  <a src="https://www.git.com/"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
 <a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a> &nbsp;&nbsp;
 </div>
 
