@@ -7,7 +7,6 @@
 - 💼 &nbsp; Working as a back-end developer.
 - 🌱 &nbsp; Learning more about Flutter, Meta Verse, Cloud Architecture, Systems Design, Artificial Intelligence and Machine Learning.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as side hustles.
-
 <h3> 🛠 &nbsp;Tech Stack 👨🏻‍💻 </h3>
 <div>
 <a src="https://www.flutter.com/"><img src="https://img.icons8.com/color/48/000000/flutter.png"/></a> &nbsp;
