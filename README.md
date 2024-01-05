@@ -4,7 +4,7 @@
 
 - 🤔 &nbsp; Exploring the emerging technologies and implementing those tech stacks on my projects.
 - 🎓 &nbsp; Bachelore of Computer Application Graduate from Calicut University.
-- 💼 &nbsp; Working as a back-end developer.
+- 💼 &nbsp; Working as a front-end developer.
 - 🌱 &nbsp; Learning more about Flutter, Meta Verse, Cloud Architecture, Systems Design, Artificial Intelligence and Machine Learning.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as side hustles.
 <h3> 🛠 &nbsp;Tech Stack 👨🏻‍💻 </h3>
