@@ -35,6 +35,4 @@
 <div>
   <img src="https://img.icons8.com/color/48/000000/user.png"/><hr>
 Phone: 9207037526<br>
-  <a href="mailto:gaseermohammed8@gmail.com">Click here to mail me</a>
-</div>
 
