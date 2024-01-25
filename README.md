@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Kalam&size=30&pause=1000&color=F71151&center=true&random=false&width=435&lines=Hi+There%F0%9F%91%8B%F0%9F%8F%BB;I'm+MOHAMMED+GASEER" alt="Typing SVG" />
   </a>
 </h1>
-
+<div align ="center">
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring the emerging technologies and implementing those tech stacks on my projects.
@@ -12,7 +12,7 @@
 - 🌱 &nbsp; Learning more about Flutter, Meta Verse, Cloud Architecture, Systems Design, Artificial Intelligence and Machine Learning.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as side hustles.
 
-<div align ="center">
+
 <h3> 🛠 &nbsp;Tech Stack 👨🏻‍💻 </h3>
 
 <a src="https://www.flutter.com/"><img src="https://img.icons8.com/color/48/000000/flutter.png"/></a> &nbsp;
@@ -36,8 +36,11 @@
 </div>
 
 <br/>
-
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<div align="center">
+    
+- 👀 I’m interested in Full-stack app development
+ 
+- 📫 How to reach me gaseermohammed8@gmail.com
 <div>
   <img src="https://img.icons8.com/color/48/000000/user.png"/><hr>
 Phone: 9207037526<br>
