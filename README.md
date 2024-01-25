@@ -32,7 +32,4 @@
 - 👨🏻‍💻 I’m interested in Full-stack app + web development
  
 - 📫 How to reach me gaseermohammed8@gmail.com
-<div>
-  <img src="https://img.icons8.com/color/48/000000/user.png"/><hr>
-Phone: 9207037526<br>
 
