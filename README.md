@@ -29,7 +29,7 @@
 <br/>
 <div align="center">
     
-- 👨🏻‍💻 I’m interested in Full-stack app + web development
+- 👨🏻‍💻 I’m interested in Full-stack APP + WEB development
  
 - 📫 How to reach me gaseermohammed8@gmail.com
 
