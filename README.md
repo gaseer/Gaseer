@@ -8,7 +8,7 @@
 
 - 🤔 &nbsp; Exploring the emerging technologies and implementing those tech stacks on my projects.
 - 🎓 &nbsp; Bachelore of Computer Application Graduate from Calicut University.
-- 💼 &nbsp; Working as a front-end developer.
+- 💼 &nbsp; Working as a FLUTTER + REACT Developer.
 - 🌱 &nbsp; Learning more about Flutter, Meta Verse, Cloud Architecture, Systems Design, Artificial Intelligence and Machine Learning.
 - ✍️ &nbsp; Pursuing Graphic Design and Blog Writing as side hustles.
 <h3> 🛠 &nbsp;Tech Stack 👨🏻‍💻 </h3>
@@ -28,10 +28,10 @@
 
 <br/>
 
-<a href="https://github.com/gaseer">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gaseer&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaseer&theme=buefy&layout=compact" />
-</a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gaseer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=gaseer&locale=en&mode=daily&theme=blueberry&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
 <br/>
 
