@@ -8,6 +8,7 @@
 
 <a src="https://www.flutter.com/"><img src="https://img.icons8.com/color/48/000000/flutter.png"/></a> &nbsp;
   <a src="https://www.dart.com/"><img src="https://img.icons8.com/color/48/000000/dart.png"/></a>
+   <a src="https://www.dart.com/"><img src="https://img.icons8.com/color/48/000000/sql.png"/></a>
 <a src="https://www.firebase.com/"><img src="https://img.icons8.com/color/48/000000/firebase.png"/></a> &nbsp;
 <a src="https://www.firebase.com/"><img src="https://img.icons8.com/color/48/000000/mysql.png"/></a> &nbsp;
 <a src="https://www.firebase.com/"><img src="https://img.icons8.com/color/48/000000/c.png"/></a> &nbsp;
