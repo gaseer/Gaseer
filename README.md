@@ -15,6 +15,7 @@
 <a src="https://www.javascript.com/"><img src="https://img.icons8.com/color/48/000000/javascript.png"/></a> &nbsp;
    <a src="https://nodejs.org/"><img src="https://img.icons8.com/color/48/000000/nodejs.png"/></a> &nbsp;&nbsp;
 <a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/react-native.png"/></a> &nbsp;&nbsp;
+<a src="https://reactjs.org/"><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/></a> &nbsp;
   <a src="https://www.git.com/"><img src="https://img.icons8.com/color/48/000000/git.png"/></a>
    <a src="https://python.org/"><img src="https://img.icons8.com/color/48/000000/python.png"/></a> &nbsp;&nbsp;
   <a src="https://chatgpt.org/"><img src="https://img.icons8.com/color/48/000000/chatgpt.png"/></a> &nbsp;&nbsp;
