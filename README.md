@@ -106,7 +106,7 @@ gaseer = {
 
 *Currently open to AI Engineer · LLM Engineer · Applied AI Engineer roles*
 
-**📫 gaseer.dev@gmail.com**
+**📫 gaseer007@gmail.com**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gaseer&color=2563EB&style=flat-square)
 
