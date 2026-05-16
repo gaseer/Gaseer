@@ -6,10 +6,9 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammed-gaseer)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaseer.dev@gmail.com)
-[![Play Store](https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gaseer)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gaseer.in)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaseer007@gmail.com)
 
 </div>
 
@@ -24,7 +23,7 @@ gaseer = {
     "building"  : "RAG chatbots for HRMS & ERP @ Zeta Software — real production AI, not demos",
     "stack"     : ["LangChain", "LangGraph", "OpenAI", "Gemini", "Flutter", "AWS", ".NET Core"],
     "open_to"   : ["AI Engineer", "LLM Engineer", "Applied AI", "Full-Stack AI Developer"],
-    "contact"   : "gaseer.dev@gmail.com",
+    "contact"   : "gaseer007@gmail.com",
 }
 ```
 
@@ -86,10 +85,9 @@ gaseer = {
 
 | Project | Description | Store |
 |---|---|---|
-| **Zeta HRMS + AI Chatbot** | Enterprise HR platform with RAG-powered natural language query system. Geo-fenced attendance, biometric auth, multilingual UI. | [![Play Store](https://img.shields.io/badge/-Play_Store-414141?logo=google-play&logoColor=white)](https://play.google.com/store) [![App Store](https://img.shields.io/badge/-App_Store-000000?logo=apple&logoColor=white)](https://apps.apple.com) |
+| **Zeta HRMS + AI Chatbot** | Enterprise HR platform with RAG-powered natural language query system. Geo-fenced attendance, biometric auth, multilingual UI. | [![Play Store](https://img.shields.io/badge/-Play_Store-414141?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.zeta.zeta_ess) [![App Store](https://img.shields.io/badge/-App_Store-000000?logo=apple&logoColor=white)](https://apps.apple.com) |
 | **Zeta ERP + AI Chatbot** | Agentic AI layer for ERP — conversational business data intelligence with LangGraph tool calling. | 🏢 Enterprise |
-| **Manjali Jewellery App** | Multi-role jewellery order management — real-time chat, video/image sharing, admin analytics. | [![App Store](https://img.shields.io/badge/-App_Store-000000?logo=apple&logoColor=white)](https://apps.apple.com) [![Play Store](https://img.shields.io/badge/-Play_Store-414141?logo=google-play&logoColor=white)](https://play.google.com/store) |
-
+| **Manjali Jewellery App** | Multi-role jewellery order management — real-time chat, video/image sharing, admin analytics. | [ 🏢 Enterprise |
 </div>
 
 ---
