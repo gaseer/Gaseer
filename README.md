@@ -95,11 +95,6 @@ gaseer = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaseer&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=gaseer&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" height="165" alt="languages" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=gaseer&theme=tokyonight&hide_border=true&border_radius=5&mode=daily" height="150" alt="streak" />
 </div>
 
