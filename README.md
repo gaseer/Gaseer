@@ -33,8 +33,8 @@ Currently building HRMS & ERP products at **Zeta Software**. Everything below is
 |---|---|---|
 | **Zeta HRMS** <br> [Play Store](https://play.google.com/store/apps/details?id=com.zeta.zeta_ess) · [App Store](https://apps.apple.com/in/app/zeta-hrms/id1439102381) | Enterprise HR platform with an embedded AI assistant for leave, payroll and policy questions | RAG pipeline over HR documents; geo-fenced attendance; biometric auth; multilingual UI; Shorebird OTA |
 | **Zeta ERP — agent layer** | Conversational querying of inventory, finance and operations data | Structured tool calling against SQL, schema-aware prompting, report generation |
-| **MotorGlow** <br> `[repo link]` | WhatsApp-native booking system for a car-wash business, built solo | Deterministic n8n state machine, Supabase RPCs with advisory locks, idempotent webhooks, HMAC verification |
-| **SpotFeed** <br> `[repo link]` | Hyperlocal group chats that auto-expire after 6 hours | PostGIS geofencing for proximity joins, Supabase Realtime, FCM |
+| **MotorGlow**` | WhatsApp-native booking system for a car-wash business, built solo | Deterministic n8n state machine, Supabase RPCs with advisory locks, idempotent webhooks, HMAC verification |
+| **SpotFeed** | Hyperlocal group chats that auto-expire after 6 hours | PostGIS geofencing for proximity joins, Supabase Realtime, FCM |
 | **Manjali Jewellery Orders** | Multi-role order management for customers, manufacturers and admins | Real-time chat with video/image/audio, order lifecycle tracking, Node.js + MySQL + Firestore |
 
 ---
