@@ -1,114 +1,79 @@
-<div align="center">
+# Mohammed Gaseer
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Mohammed+Gaseer+%F0%9F%91%8B;AI+Engineer+%7C+LLM+Integration+Specialist;RAG+Pipelines+%7C+Agentic+AI+Systems;Flutter+%7C+Full-Stack+%7C+AWS+Cloud" alt="Typing SVG" />
-</a>
+**AI Engineer · Flutter & Full-Stack Engineer** — Malappuram, Kerala, India
 
-<br/>
+I build AI features that live inside systems real businesses depend on: RAG assistants embedded in production mobile apps, LLM agents that query business data through tool calling, and WhatsApp automation pipelines that have to be correct under concurrency, not just impressive in a demo.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gaseer)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://gaseer.in)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gaseer007@gmail.com)
+Currently building HRMS & ERP products at **Zeta Software**. Everything below is something I've shipped and can whiteboard.
 
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/gaseer)
+[![Portfolio](https://img.shields.io/badge/gaseer.in-000000?style=flat-square&logo=vercel&logoColor=white)](https://gaseer.in)
+[![Email](https://img.shields.io/badge/gaseer007@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:gaseer007@gmail.com)
 
 ---
 
-## 🧠 About Me
+## What I actually build
 
-```python
-gaseer = {
-    "role"      : ["AI Engineer", "LLM Integration Specialist", "Full-Stack Developer"],
-    "focus"     : ["RAG Pipelines", "Agentic AI Systems", "Enterprise LLM Apps"],
-    "building"  : "RAG chatbots for HRMS & ERP @ Zeta Software — real production AI, not demos",
-    "stack"     : ["LangChain", "LangGraph", "OpenAI", "Gemini", "Flutter", "AWS", ".NET Core"],
-    "open_to"   : ["AI Engineer", "LLM Engineer", "Applied AI", "Full-Stack AI Developer"],
-    "contact"   : "gaseer007@gmail.com",
-}
-```
+**Production RAG, end to end.** Document ingestion → chunking strategy → embeddings → `pgvector` retrieval with re-ranking → grounded generation with source citations. The interesting problems aren't the API calls; they're chunk boundaries that don't split a policy mid-clause, retrieval that stays useful when the corpus triples, and citations that let a user verify an answer about their own payroll.
 
----
+**Deterministic automation over LLM routing.** My WhatsApp booking system originally routed conversation state through an LLM. It was unpredictable in exactly the way a booking flow can't afford to be. I rebuilt it as an explicit n8n state machine backed by Supabase RPCs:
 
-## 🤖 AI & LLM Stack
+- Postgres **advisory locks** inside the RPC, so two people tapping the same slot at the same second can't both get it
+- **Idempotent webhook handling** keyed on the provider message ID — WhatsApp retries, and retries must not double-book
+- **HMAC SHA-256 signature verification** on every inbound webhook
+- The LLM does what it's good at (understanding intent); the database does what it's good at (being correct)
 
-<div align="center">
-
-| Category | Tools |
-|---|---|
-| **LLM APIs** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) ![Anthropic](https://img.shields.io/badge/Anthropic_Claude-CC785C?style=flat-square&logoColor=white) ![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white) |
-| **Orchestration** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white) ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logoColor=white) ![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=flat-square&logoColor=white) |
-| **Vector DBs** | ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white) ![ChromaDB](https://img.shields.io/badge/ChromaDB-F97316?style=flat-square&logoColor=white) ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logoColor=white) |
-| **AI Infra** | ![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white) |
-
-</div>
+**Mobile that ships.** Flutter with Clean Architecture and Riverpod, offline-first local persistence, and Shorebird OTA so a fix reaches enterprise users the same day instead of after store review.
 
 ---
 
-## 🛠️ Full Tech Stack
+## Selected work
 
-<div align="center">
-
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### 🐍 Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![DotNet](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### 📱 Mobile & Frontend
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLServer](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-FCSA28?style=for-the-badge&logo=supabase&logoColor=black)
-
-</div>
-
----
-
-## 🚀 Shipped & Live
-
-<div align="center">
-
-| Project | Description | Store |
+| Project | What it is | Notable engineering |
 |---|---|---|
-| **Zeta HRMS + AI Chatbot** | Enterprise HR platform with RAG-powered natural language query system. Geo-fenced attendance, biometric auth, multilingual UI. | [![Play Store](https://img.shields.io/badge/-Play_Store-414141?logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.zeta.zeta_ess) [![App Store](https://img.shields.io/badge/-App_Store-000000?logo=apple&logoColor=white)](https://apps.apple.com) |
-| **Zeta ERP + AI Chatbot** | Agentic AI layer for ERP — conversational business data intelligence with LangGraph tool calling. | 🏢 Enterprise |
-| **Manjali Jewellery App** | Multi-role jewellery order management — real-time chat, video/image sharing, admin analytics. | [ 🏢 Enterprise |
-</div>
+| **Zeta HRMS** <br> [Play Store](https://play.google.com/store/apps/details?id=com.zeta.zeta_ess) · [App Store](https://apps.apple.com/in/app/zeta-hrms/id1439102381) | Enterprise HR platform with an embedded AI assistant for leave, payroll and policy questions | RAG pipeline over HR documents; geo-fenced attendance; biometric auth; multilingual UI; Shorebird OTA |
+| **Zeta ERP — agent layer** | Conversational querying of inventory, finance and operations data | Structured tool calling against SQL, schema-aware prompting, report generation |
+| **MotorGlow** <br> `[repo link]` | WhatsApp-native booking system for a car-wash business, built solo | Deterministic n8n state machine, Supabase RPCs with advisory locks, idempotent webhooks, HMAC verification |
+| **SpotFeed** <br> `[repo link]` | Hyperlocal group chats that auto-expire after 6 hours | PostGIS geofencing for proximity joins, Supabase Realtime, FCM |
+| **Manjali Jewellery Orders** | Multi-role order management for customers, manufacturers and admins | Real-time chat with video/image/audio, order lifecycle tracking, Node.js + MySQL + Firestore |
 
 ---
 
-## 📊 GitHub Stats
+## Stack
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=gaseer&theme=tokyonight&hide_border=true&border_radius=5&mode=daily" height="150" alt="streak" />
-</div>
+**AI & LLM** — RAG pipelines · pgvector · embeddings & semantic search · chunking and retrieval strategies · re-ranking · grounded generation with citations · agents & tool calling · prompt engineering · MCP
+
+**Automation** — n8n (deterministic state machines, idempotency, retries) · WhatsApp Business Cloud API · webhooks · queue and cron orchestration
+
+**Backend** — Python · FastAPI · .NET Core · C# · Node.js · Express
+
+**Data** — PostgreSQL · Supabase (RPC, RLS, Realtime, PostGIS) · SQL Server · MySQL · SQLite · Firestore
+
+**Mobile & Frontend** — Flutter · Dart · Clean Architecture · Riverpod · BLoC · go_router · Shorebird OTA · Next.js · React · Angular · TypeScript
+
+**Cloud & Tooling** — AWS (EC2, S3, Lambda, IAM) · Docker · Vercel · Firebase · CI/CD · Git · Claude Code
 
 ---
 
-<div align="center">
+## Things production taught me
 
-### 💬 Let's build something intelligent together
+- An LLM in the control path of a transactional flow is a liability. Use it for intent, not for state.
+- Idempotency isn't optional the moment a third party can retry your webhook.
+- Retrieval quality is a data problem long before it's a model problem. Most "the model is hallucinating" bugs were bad chunks.
+- Shipping OTA changes how you think about risk — small, frequent, reversible beats big and rehearsed.
 
-*Currently open to AI Engineer · LLM Engineer · Applied AI Engineer roles*
+---
 
-**📫 gaseer007@gmail.com**
+## Beyond code
 
-![Profile Views](https://komarev.com/ghpvc/?username=gaseer&color=2563EB&style=flat-square)
+I run **iMentor**, a mentorship program for early-career developers in Kerala — a five-season curriculum for BCA/BSc students, currently running two batches. Teaching fundamentals is the fastest way I've found to notice the gaps in my own.
 
-</div>
+---
+
+## Currently going deeper on
+
+Flutter testing (unit, widget, integration) · offline-first architecture · evaluation harnesses for RAG · Linux and DevOps fundamentals
+
+---
+
+**Open to AI engineering roles.** Best reached at [gaseer007@gmail.com](mailto:gaseer007@gmail.com) or on [LinkedIn](https://linkedin.com/in/gaseer).
